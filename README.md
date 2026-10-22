@@ -15,21 +15,21 @@ A graduation project focused on plant information, hybridization workflows, and 
 
 - **Tech Stack:** Flutter, Python, Flask, Firebase
 - **Focus:** Plant data management, genomic analysis, and hybridization decision support.
-- **Repository:** [Explore Geniflora](https://github.com/FatimaZahran2003)
+- **Repository:** [Explore my repositories] git@github.com:FatimaZahran2003/Geniflora-.git
 
 ###  YallaEat.AI — AI-Powered Restaurant Assistant
 An Arabic-focused restaurant chatbot project designed to support customer interactions and restaurant ordering workflows.
 
 - **Tech Stack:** C#, ASP.NET Core, Entity Framework Core, SQL, Azure AI
 - **Focus:** Arabic chatbot integration, REST APIs, and order management.
-- **Repository:** [Explore my repositories](https://github.com/FatimaZahran2003)
+- **Repository:** [Explore my repositories] git@github.com:FatimaZahran2003/YallaEat.AI.git
 
 ###  Personal Portfolio
 My portfolio website showcasing my projects, technical skills, and development work.
 
 - **Tech Stack:** React, JavaScript, Vite
 - **Live Website:** [Visit My Portfolio](https://fatimazahran2003.github.io/fatima-portfolio/)
-
+- 
 ## 🛠️ Technical Skills
 
 **Languages:** C#, Python, JavaScript, SQL
